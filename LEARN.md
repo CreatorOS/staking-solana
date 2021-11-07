@@ -80,7 +80,7 @@ A delegation or deactivation takes several epochs to complete, with a fraction o
 A lockup can only be added when a stake account is first created, but it can be modified later, by the lockup authority.
 
 ## Subquest: Staking flow ##
-![alt_text](./staking-solana.png "Staking Solana Flow")
+![alt_text](/learn_src/learn_assets/staking-solana.png "Staking Solana Flow")
 
 
 ## Subquest: Staking code walkthrough ##
@@ -473,7 +473,7 @@ export default App;
 
 9. Once the transaction is confirmed, you can view the stake account in the Phantom Wallet.
 
-![Alt text](wallet-staking.png?raw=true "Wallet Staking")
+![Alt text](/learn_src/learn_assets/wallet-staking.png?raw=true "Wallet Staking")
 
 
 <h2>Subquest : What next?</h2>
